@@ -1,0 +1,40 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+header{
+    background-color: green;
+   height: 20px;
+}
+
+div{
+    font-size: medium;
+    text-align: left; 
+    margin: 10px;
+    
+}
+p{
+    font-weight: 700;
+    width: 60%;
+    margin: 20px;
+    
+
+}
+
+button{
+    margin: 10px;
+    padding: 10px;
+    font-size: large;
+    background-color: green;
+    border-radius: 15px;
+}
+
+.images{
+    display: inline-block;
+    margin: 3px;
+}
+.temp-content{
+    margin: 5px;
+    text-align: left;
+    display: inline-block;
+}
